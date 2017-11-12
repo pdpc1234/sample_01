@@ -7,11 +7,8 @@
 
 int main()
 {
-	std::cout << "hello world" << std::endl;
-	std::cout << "hello world" << std::endl;
-	std::cout << "hello world" << std::endl;
-	std::cout << "hello world" << std::endl;
 
+	std::cout << "version_a" << std::endl;
     return 0;
 }
 
